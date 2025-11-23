@@ -1,0 +1,11 @@
+# IDEs
+.vscode
+.idea
+.fleet
+
+# Python
+.venv
+__pycache__
+
+# Assets
+*.csv
